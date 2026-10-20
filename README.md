@@ -15,12 +15,13 @@
 <div align=center><b>The architecture of a typical MSV.<b> Sensors, communication, guidance, navigation, and control (GNC), propulsion, and power support onboard operation and interaction with a ground station.</div>
 
 ## Outline
-* dd
--- d
-** g
-
-* 88
-* gg
+* Introduction
+* Image Generation in Restricted Visibility
+* Intelligent Vision
+* Vision-Centered Multi-Sensor Fusion
+* Datasets and Safety-Critical Applications
+* Open Challenges and Future Directions
+* Conclusions
 
 ## Maritime Datasets
 * 2015-[Paired Visible and Infrared Ship Imagery (VAIS)](http://vcipl-okstate.org/pbvs/bench/Data/12/VAIS.zip). VAIS contains simultaneously acquired unregistered thermal and visible images of ships acquired from piers. It is suitable for object classification research. In particular, it contains more than 1,000 paired RGB and infrared images among six ship categories - merchant, sailing, passenger, medium, tug, and small - which are salient for control and following maritime traffic regulations.
