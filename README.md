@@ -16,8 +16,11 @@
 
 ## Outline
 * dd
-  ** d
-  ** g
+** d
+** g
+
+* 88
+* gg
 
 ## Maritime Datasets
 * 2015-[Paired Visible and Infrared Ship Imagery (VAIS)](http://vcipl-okstate.org/pbvs/bench/Data/12/VAIS.zip). VAIS contains simultaneously acquired unregistered thermal and visible images of ships acquired from piers. It is suitable for object classification research. In particular, it contains more than 1,000 paired RGB and infrared images among six ship categories - merchant, sailing, passenger, medium, tug, and small - which are salient for control and following maritime traffic regulations.
