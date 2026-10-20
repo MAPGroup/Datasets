@@ -21,6 +21,11 @@
 * Vision-Centered Multi-Sensor Fusion
 * Datasets and Safety-Critical Applications
 * Open Challenges and Future Directions
+* Datasets and Benchmarks for Restricted Visibility
+* Robust Imaging in Severely Restricted Visibility
+* Object Detection in Complex Conditions
+* Multi-Sensor Fusion in Dynamic Environments
+* Scene Understanding and Reasoning
 * Conclusions
 
 ## Maritime Datasets
