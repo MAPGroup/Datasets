@@ -2,7 +2,7 @@
 
 ---
 >**Navigational Safety of Marine Surface Vehicles in Restricted Visibility: From Intelligent Vision to Vision-Centered Multi-Sensor Fusion**<br>
->[Ryan Wen Liu](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN), Fengchuan Song, Tianxiang Wang, Guobei Peng, [Youngrong Kim](https://sites.google.com/view/marislab), [Xian Zhong](https://xiangroup.github.io/), [Hooi-Siang Kang](https://people.utm.my/henrykang/), [Maohan Liang](https://maohliang.github.io/nus.github.io/)<sup>* </sup>, [Junzhi Yu](https://www.pkuyulab.com/)<sup>* </sup>, [Shanliang Yao](https://aideepfusion.com/)<sup>* </sup><br>
+>[Ryan Wen Liu](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN), Fengchuan Song, [Tianxiang Wang](https://scholar.google.com/citations?user=Plnnu9EAAAAJ&hl=zh-CN), Guobei Peng, [Youngrong Kim](https://sites.google.com/view/marislab), [Xian Zhong](https://xiangroup.github.io/), [Hooi-Siang Kang](https://people.utm.my/henrykang/), [Maohan Liang](https://maohliang.github.io/nus.github.io/)<sup>* </sup>, [Junzhi Yu](https://www.pkuyulab.com/)<sup>* </sup>, [Shanliang Yao](https://aideepfusion.com/)<sup>* </sup><br>
 >(* Corresponding Author)<br> 
 >Submitted to [Autonomous Transportation Research](https://www.sciencedirect.com/journal/autonomous-transportation-research)
 
