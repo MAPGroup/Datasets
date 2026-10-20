@@ -14,6 +14,11 @@
 ![Figure01_Flowchart](Figure01_MSV_Architecture.jpg)
 <div align=center><b>The architecture of a typical MSV.<b> Sensors, communication, guidance, navigation, and control (GNC), propulsion, and power support onboard operation and interaction with a ground station.</div>
 
+## Outline
+* dd
+  ** d
+  ** g
+
 ## Maritime Datasets
 * 2015-[Paired Visible and Infrared Ship Imagery (VAIS)](http://vcipl-okstate.org/pbvs/bench/Data/12/VAIS.zip). VAIS contains simultaneously acquired unregistered thermal and visible images of ships acquired from piers. It is suitable for object classification research. In particular, it contains more than 1,000 paired RGB and infrared images among six ship categories - merchant, sailing, passenger, medium, tug, and small - which are salient for control and following maritime traffic regulations.
 * 2015-[Marine Obstacle Detection Dataset (MODD)](https://www.vicos.si/resources/modd/). This dataset contains marine videos, captured by unmanned surface vehicle (USV). The challenge, posed by this dataset, is to segment each image into three natural regions: the sky, the shore and the sea, and furthermore, detect obstacles in the sea area.
