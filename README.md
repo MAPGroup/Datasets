@@ -15,8 +15,8 @@
 <div align=center><b>The architecture of a typical MSV.<b> Sensors, communication, guidance, navigation, and control (GNC), propulsion, and power support onboard operation and interaction with a ground station.</div>
 
 ## Maritime Datasets
-* MODD
-* MODD2
+* [Marine Obstacle Detection Dataset (MODD)](https://www.vicos.si/resources/modd/). This dataset contains marine videos, captured by unmanned surface vehicle (USV). The challenge, posed by this dataset, is to segment each image into three natural regions: the sky, the shore and the sea, and furthermore, detect obstacles in the sea area.
+* [Multi-modal Marine Obstacle Detection Dataset 2 (MODD2)](https://www.sciencedirect.com/science/article/abs/pii/S0921889017305808). Multi-modal Marine Obstacle Detection Dataset 2 (MODD2) consists of 28 video sequences of variable length, amounting to 11675 stereo-frames at resolution of 1278x958 pixels each.
 * MID
 * SMD
 * [Marine Semantic Segmentation Training Dataset (MaSTr1325)](https://www.vicos.si/resources/mastr1325/). MaSTr1325 is a new large-scale marine semantic segmentation training dataset tailored for development of obstacle detection methods in small-sized coastal USVs. The dataset contains 1325 diverse images captured over a two year span with a real USV, covering a range of realistic conditions encountered in a coastal surveillance task. All images are per-pixel semantically labeled and synchronized with inertial measurements of the on-board sensors. In addition, a dataset augmentation protocol is proposed to address slight appearance differences of the images in the training set and those in deployment.
