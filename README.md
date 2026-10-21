@@ -12,7 +12,7 @@
 ## MSV Architecture
 
 ![Figure01_Flowchart](Figure01_MSV_Architecture.jpg)
-<div align=center><b>The architecture of a typical MSV.<b> Sensors, communication, guidance, navigation, and control (GNC), propulsion, and power support onboard operation and interaction with a ground station.</div>
+<div align=center><b>The architecture of a typical MSV.<b> Visual illustration of an MSV equipped with multiple sensors, a ground station, GNC (guidance, navigation and control) system, communication system, propulsion and power system.</div>
 
 ## Outline
 >* Introduction
